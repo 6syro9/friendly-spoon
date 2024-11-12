@@ -6,6 +6,8 @@ import Features from "./Sections/Features";
 import { Testimonials } from "./Sections/Testimonials";
 import CallToActions from "./Sections/CallToActions";
 import Footer from "./Sections/Footer";
+import React from 'react';
+
 
 export default function Home() {
   return (
