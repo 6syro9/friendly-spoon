@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image';
-import LogoIcon from '@/assests/logo.png';
 import { Button } from '../Components/Button';
 
 const Header = () => {

@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Header from "./Sections/Header";
 import Hero from "./Sections/Hero";
 import LogoTicker from "./Sections/LogoTicker";
